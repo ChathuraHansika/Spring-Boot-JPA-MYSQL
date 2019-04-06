@@ -1,0 +1,5 @@
+com\mycompany\controller\Controller.class
+com\mycompany\user\User.class
+NewClass.class
+com\mycompany\dao\UserDao.class
+com\mycompany\user\User_.class
